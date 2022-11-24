@@ -1,0 +1,12 @@
+Be Belgium 19200 115.2 4.5
+De Denmark 20400 120.1 3.6
+Ge Germany 19500 115.6 2.8
+Gr Greece 18800 94.3 4.2
+Sp Spain 17600 102.6 4.1
+Fr France 19600 108.0 3.2
+Ir Ireland 20800 135.4 3.1
+It Italy 18200 101.8 3.5
+Lu Luxembourg 28800 276.4 4.1
+Ne Netherlands 20400 134.0 2.2
+Po Portugal 15000 76.0 2.7
+UK United_Kingdom 22600 116.2 3.6
